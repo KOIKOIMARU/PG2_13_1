@@ -22,7 +22,7 @@ void Bullet::Update() {
 		}
 	}
 }
-
+ 
 /// <summary>
 /// 弾を描画させる関数
 /// </summary>

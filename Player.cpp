@@ -18,7 +18,7 @@ Player::~Player() {
 	// ポインタ削除
 	delete Bullet_;
 }
-
+  
 /// <summary>
 /// プレイヤーを更新させる関数
 /// </summary>

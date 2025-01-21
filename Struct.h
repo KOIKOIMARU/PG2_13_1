@@ -6,4 +6,4 @@ typedef struct Transform {
 	int posY;
 	int radius;
 	int speed;
-}Transform;
+}Transform; 

@@ -18,7 +18,7 @@ public:
 	~Enemy();
 
 public:
-	// メンバ関数
+	// メンバ関数 
 
 	/// <summary>
 	/// 更新処理

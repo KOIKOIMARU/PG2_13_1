@@ -11,7 +11,7 @@ Enemy::Enemy(int posX, int posY, int radius, int speed) {
 }
 
 // デストラクタの定義
-Enemy::~Enemy() {}
+Enemy::~Enemy() {} 
 
 /// <summary>
 /// 円を移動させ、壁に衝突で反射

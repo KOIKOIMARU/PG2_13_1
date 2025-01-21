@@ -12,7 +12,7 @@ public:
 	Transform player_;
 	// 弾の変数
 	Bullet* Bullet_;
-
+	 
 	// コンストラクタの宣言
 	Player(int posX, int posY, int radius, int speed);
 	// デストラクタの宣言

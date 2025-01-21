@@ -23,7 +23,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	Player* player = new Player(640, 600, 30, 10);
 
 	// 敵のインスタンス生成
-	Enemy* enemy1 = new Enemy(100, 100, 20, 10);
+	Enemy* enemy1 = new Enemy(100, 100, 20, 10); 
 	Enemy* enemy2 = new Enemy(300, 300, 20, 10);
 
 
